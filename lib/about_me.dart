@@ -48,7 +48,7 @@ class _AboutMeState extends State<AboutMe> {
                         radius: 120.r,
                         child: CircleAvatar(
                           backgroundImage:
-                              const AssetImage('assets/images/weird_2.png'),
+                               const AssetImage('assets/images/weird_1.png'),
                           radius: 115.r,
                         ),
                       ),

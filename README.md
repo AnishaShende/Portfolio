@@ -1,6 +1,10 @@
 # anisha_intro
 
-A new Flutter application.
+A portfolio application.
+
+
+Screenshots of the application :
+
 
 ## Getting Started
 

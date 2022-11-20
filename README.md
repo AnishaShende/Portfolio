@@ -7,16 +7,21 @@ A portfolio is an organized, visual collection of a person's progress, achieveme
 <b>Screenshots of the application :</b>
 
 <p align = "center">
-<img width="30%" src="https://user-images.githubusercontent.com/91362696/201260794-1b2659c3-722d-439f-9d2d-370bf27681be.png" alt="Home Screen">
-<img width="30%" src="https://user-images.githubusercontent.com/91362696/201260784-f21588ac-a5ff-43e2-abc7-9279b84bfc42.png" alt="Professional Tab">
-<img width="30%" src="https://user-images.githubusercontent.com/91362696/201260788-02d8a57f-3722-4285-947c-45f5742ac1b4.png" alt="Programming Languages known">
-<img width="30%" src="https://user-images.githubusercontent.com/91362696/201260793-9e1ca776-38b1-4e07-9b0e-fe2e675f88c7.png" alt="Project Screen">
-<img width="30%" src="https://user-images.githubusercontent.com/91362696/201260791-188595b0-5951-4739-85a8-230f9b35712d.png" alt="Contact me screen">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911005-5a02feb6-27ee-4868-b565-25dd87b80d46.png" alt="Loading Screen">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911301-0cd26ccf-d9eb-4dde-a380-a2a7e6bf6cb1.png" alt="Home Screen">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911012-64b82c90-dd74-4a22-b0d8-e1ae5d7747e4.png" alt="Professional Tab">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911015-19ef6f55-da37-4419-80ea-f7ef376aa965.png" alt="Personal Tab">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911016-c89bb623-c434-4143-86a1-4fef9b441b86.png " alt="Programming Languages known">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911024-8d22fe6d-dc73-441e-9939-7203b16f839d.png" alt="Project Screen">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911028-9375bff5-da68-4bcf-8b83-02b8f5f285d3.png" alt="Contact me screen">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911030-51cd0f7b-e838-401b-8365-5fa8d5502208.png" alt="About me Screen">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/202911035-ccca8599-ba46-4e0f-ad14-a4e136b73316.png" alt="Exit Screen">
 </p>
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 

@@ -6,6 +6,8 @@ import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:lottie/lottie.dart';
 import 'package:easy_splash_screen/easy_splash_screen.dart';
+// import 'package:flutter/material.dart';
+// import 'package:anisha_intro/home.dart';
 // 720 x 1520 pixels
 
 void main() {
